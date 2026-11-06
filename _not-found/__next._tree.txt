@@ -1,0 +1,6 @@
+:HL["/solohall-claude/_next/static/chunks/1y3gphdd9rmv4.css","style"]
+:HL["/solohall-claude/_next/static/chunks/32dhi6u11klqe.css","style"]
+:HL["/solohall-claude/_next/static/chunks/43g2gv5rr70_c.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"ihDfCRSeEacVZzSrU3iW9","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
